@@ -1,0 +1,4 @@
+streamlit #UI
+python-dotenv #store API KEYS
+langchain-community #to initialize llm
+langchain-groq #Groq llm

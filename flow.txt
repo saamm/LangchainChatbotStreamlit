@@ -1,0 +1,11 @@
+user_query
+
+save quert to chat histy
+
+sens the chat history tollm
+
+get response from llm
+
+save reponse in chat history
+
+display llm response
